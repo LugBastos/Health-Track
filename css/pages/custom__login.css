@@ -1,0 +1,12 @@
+.formulario {
+    max-width: 700px;
+}
+
+.senhaPerfic, .register a, .login a{
+    text-decoration: none;
+    color: #fff;    
+}
+
+.register, .login a:hover, .register a:hover{
+    color: #fff;
+}
